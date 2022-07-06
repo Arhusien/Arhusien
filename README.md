@@ -6,7 +6,7 @@ Creator and developer of John-Bot, a verified multipurpose Discord bot with the 
 
 ### My Projects
 
-[<img src="https://johnbot.app/assets/LogoForGitHubBio.svg"/>](https://github.com/JohnBotDiscord)
+[<img src="https://johnbot.app/assets/LogoForGitHubBio.svg" width="24"/>](https://github.com/JohnBotDiscord)
 
 ### My Skills
 

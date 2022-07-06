@@ -8,6 +8,11 @@ I'm creator and developer of John-Bot, a verified multipurpose bot with the goal
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css)](https://skillicons.dev)
 
 ### Programming Tools
+
+
+### Other Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,mongodb,vscode)](https://skillicons.dev)

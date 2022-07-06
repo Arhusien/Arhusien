@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=false&lines=%F0%9F%91%8B+Hi%2C+i'm+Alexis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=false&lines=%F0%9F%91%8B+Hi+!+I'm+Alexis)](https://git.io/typing-svg)
 --
 ### About Me
 

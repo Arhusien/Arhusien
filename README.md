@@ -4,9 +4,9 @@
 
 Creator and developer of John-Bot, a verified multipurpose Discord bot with the goal of making it easier to manage your servers.
 
-### My Organization (John-Bot)
+### My Projects
 
-
+[<img src="[https://johnbot.app/assets/LogoForGitHubBio.svg](https://johnbot.app/assets/LogoForGitHubBio.svg)"/>](https://github.com/JohnBotDiscord)
 
 ### My Skills
 
@@ -14,4 +14,4 @@ Creator and developer of John-Bot, a verified multipurpose Discord bot with the 
 
 ### Tools & Softwares
 
-![My Skills](https://skillicons.dev/icons?i=figma,vscode,mongodb,ai,github,discord,nodejs)
+![My Skills](https://skillicons.dev/icons?i=figma,vscode,mongodb,ai,github,discord,nodejs,linux)

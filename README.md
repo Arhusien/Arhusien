@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=false&lines=Hi+%F0%9F%91%8B+I'm+Alexis+%F0%9F%91%80)](https://git.io/typing-svg)
 --
-### About Me
-
-Creator and developer of John-Bot, a verified multipurpose Discord bot with the goal of making it easier to manage your servers.
 
 ### My Projects
 

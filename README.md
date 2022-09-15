@@ -3,7 +3,7 @@
 
 ### My Projects
 
-[<img src="https://johnbot.app/assets/LogoForGitHubBio.png" width="50"/>](https://github.com/JohnBotDiscord) 
+[<img src="https://cdn.johnbot.app/img/johnbot.png" width="50"/>](https://github.com/JohnBotDiscord) 
 
 ### My Skills
 

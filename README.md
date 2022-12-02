@@ -5,7 +5,7 @@
 
 [<img src="https://cdn.johnbot.app/img/johnbot.png" width="50"/>](https://github.com/JohnBotApp) 
 
-### My Skills
+### Programming Languages
 
 ![My Skills](https://skillicons.dev/icons?i=js,java,html,css)
 

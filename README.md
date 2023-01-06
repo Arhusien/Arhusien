@@ -1,14 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=false&lines=Hi+%F0%9F%91%8B+I'm+AlexisTm+/+Zzerium+%F0%9F%91%80)](https://git.io/typing-svg)
---
-
-### My Projects
-
-[<img src="https://cdn.johnbot.app/img/johnbot.png" width="50"/>](https://github.com/JohnBotApp) 
-
-### Programming Languages
-
-![My Skills](https://skillicons.dev/icons?i=js,java,html,css)
-
-### Tools & Softwares
-
-![My Skills](https://skillicons.dev/icons?i=figma,vscode,mongodb,ai,github,discord,nodejs,linux)
+![Metrics](https://metrics.lecoq.io/zzerium?template=classic&isocalendar=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&config.timezone=America%2FToronto&config.twemoji=true&config.display=columns)
